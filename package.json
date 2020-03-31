@@ -1,0 +1,23 @@
+{
+  "name": "friend_finder_hw_11",
+  "version": "1.0.0",
+  "description": "HW 11",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OAbbasi522/Friend_Finder_HW_11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OAbbasi522/Friend_Finder_HW_11/issues"
+  },
+  "homepage": "https://github.com/OAbbasi522/Friend_Finder_HW_11#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
